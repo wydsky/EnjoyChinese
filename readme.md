@@ -1,5 +1,11 @@
 # EnjoyChinese
-EnjoyChinese is an app for foreigners to learn Chinese.
+EnjoyChinese is a mobile app designed for learners around the world to study Mandarin Chinese efficiently.
+EnjoyCards is its supporting flashcard app for vocabulary review.
 
-Official website: [enjoychinese.app](https://enjoychinese.app)
-Companion flashcard app: [EnjoyCards.app](https://enjoycards.app)
+Official website:
+[https://enjoychinese.app](https://enjoychinese.app)
+Flashcard app:
+[https://enjoycards.app](https://enjoycards.app)
+
+Check the full introduction:
+[Detailed introduction](./about.md)
