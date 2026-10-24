@@ -1,3 +1,3 @@
 # Table of contents
 
-* [EnjoyChinese App | Learn Mandarin Chinese for Beginners](README.md)
+* [Chinese Learning Apps Index](home.md)
