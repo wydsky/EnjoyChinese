@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Chinese Learning Apps Index](home.md)
+* [EnjoyCards: Flashcard App to Learn Chinese Vocabulary Efficiently](home.md)

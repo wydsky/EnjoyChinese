@@ -1,40 +1,39 @@
-# Chinese Learning Apps Index
+# EnjoyCards: Flashcard App to Learn Chinese Vocabulary Efficiently
 
-EnjoyChinese is a practical mobile application built for non-native speakers who want to learn Mandarin Chinese efficiently. Whether you are a beginner with zero Chinese foundation or an intermediate learner looking to improve your vocabulary, listening and reading skills, this app provides structured learning materials for self-study.
+EnjoyCards is a lightweight flashcard application built for anyone who wants to memorize Chinese vocabulary faster. Whether you are a beginner just starting with Mandarin, an intermediate learner expanding your word bank, or a teacher looking for simple study aids for students, this flashcard tool fits perfectly into your daily language routine.
 
-### What You Can Learn Inside EnjoyChinese
+Unlike many complicated language apps packed with unnecessary functions, EnjoyCards focuses entirely on spaced repetition flashcards. You can create custom word decks, add Chinese characters, Pinyin, English definitions and example sentences to each card. The built-in review algorithm schedules cards intelligently: words you master appear less often, while difficult vocabulary shows up more frequently until you memorize them firmly.
 
-* Core vocabulary grouped by daily scenarios: food, travel, business, family, hobbies
-* Standard Mandarin audio pronunciation for every word and sentence
-* Simple reading passages with pinyin and Chinese characters
-* Lightweight quizzes to help you review what you have learned
-* Clean, distraction-free interface designed for mobile learning
+### What you can do with EnjoyCards
 
-### Who Is This App For?
+* Build unlimited custom Chinese flashcard decks for HSK 1–6 vocabulary
+* Add Hanzi, Pinyin, audio pronunciation notes and sample sentences
+* Review cards using proven spaced repetition learning logic
+* Sort and filter decks by difficulty, topic or learning stage
+* Study offline without requiring a constant internet connection
+* Track your learning progress and review history clearly
 
-* Absolute beginners starting Chinese for the first time
-* Travelers planning a trip to China
-* Students who need supplementary Mandarin practice
-* Language enthusiasts learning Chinese in spare time
+### Who is EnjoyCards for?
+
+* New Chinese learners preparing for HSK exams
+* Self-study learners who prefer flashcard-style memorization
+* Tutors and Chinese teachers making custom vocabulary sets for class
+* Anyone who wants a clean, distraction-free Mandarin study tool
 
 ### Official Website
 
-You can find the latest version, feature updates and download guide on the official site: [EnjoyChinese.app](https://enjoychinese.app)
+You can download the app and explore all flashcard features on the official site: \[**EnjoyCards.app]\(https://enjoycards.app)**
 
-### Frequently Asked Questions
+### FAQ
 
-#### Is EnjoyChinese free to try?
+#### Is EnjoyCards free to use?
 
-EnjoyChinese offers free learning content for new users, with optional advanced learning packs for further study. You can download the app and start your first lesson without payment.
+EnjoyCards provides core flashcard creation and review functions for free. Optional advanced features are available if you need larger deck storage and extra customization. You can start building your first vocabulary deck right away after installing.
+
+#### Can I import my own word lists?
+
+Yes. You can import vocabulary lists to quickly generate flashcards, saving lots of time when preparing HSK word lists or theme-based vocabulary.
 
 #### Does it support multiple languages?
 
-The app supports several interface languages to help learners from different countries understand the instructions easily.
-
-#### Where can I get support?
-
-If you meet technical problems or have feature suggestions, you can leave a message through the contact channel on [EnjoyChinese.app](https://enjoychinese.app).
-
-### Final Notes
-
-This document is maintained on GitBook as an official introduction resource for EnjoyChinese. We will update this page when new learning features are released.
+The app’s main learning target is Chinese vocabulary. The app interface supports multiple display languages for learners from different countries.
